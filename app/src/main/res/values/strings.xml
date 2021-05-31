@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">ShokacShoes</string>
+    <string name="WalkTitle">ショッカクシューズで歩行計測!</string>
+    <string name="touchencelogo">TouchenceLogo</string>
+    <string name="shokacshose_preparation">ショッカクシューズを準備します</string>
+    <string name="do_not_wear_shokacshose_yet">まだシューズは履かないでください</string>
+    <string name="next">次へ</string>
+    <string name="seekbar">seekbar</string>
+    <string name="step1">ステップ1</string>
+    <string name="step2">ステップ2</string>
+    <string name="step3">ステップ3</string>
+    <string name="step4">ステップ4</string>
+    <string name="is_user_resister">ユーザ登録はお済みでしょうか？</string>
+    <string name="to_resisterpage">ユーザ登録へ</string>
+    <string name="connect_battery">シューズの電池を接続してください。</string>
+    <string name="battery_description">battery_description</string>
+    <string name="connect_shoes">スマホとシューズを接続します</string>
+    <string name="to_login">ログイン画面へ</string>
+    <string name="tss_id8_l">TSS(シューズID8桁_Lを選択してください</string>
+    <string name="tss_id8_r">TSS(シューズID8桁_Rを選択してください</string>
+    <string name="connect_right">右足接続</string>
+    <string name="connect_left">左足接続</string>
+    <string name="noconnect">未接続</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="purchasing_organization_ID">顧客ID</string>
+    <string name="user_resisiter">ショッカクシューズ\nユーザID登録</string>
+    <string name="physical_quesion">お体に関する質問にお答えください</string>
+    <string name="rePassword">パスワード再入力</string>
+    <string name="reinput">確認入力</string>
+    <string name="man">男</string>
+    <string name="womam">女</string>
+    <string name="sex">性別</string>
+    <string name="birthday">生年月日</string>
+    <string name="hight">身長</string>
+    <string name="weight">体重</string>
+    <string name="shoessize">靴のサイズ</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="shoulder">Q4 肩こりはありますか</string>
+    <string name="waist">Q5 腰に違和感はありますか？</string>
+    <string name="knee">Q6 ヒザに違和感はありますか？</string>
+    <string name="right_leg">右足</string>
+    <string name="left_leg">左足</string>
+    <string name="both_leg">両足</string>
+    <string name="none">なし</string>
+    <string name="ankle">Q7 足首に違和感はありますか？</string>
+    <string name="center_japanese">真ん中</string>
+    <string name="right">右側</string>
+    <string name="left">左側</string>
+    <string name="rightshoulder">右肩</string>
+    <string name="leftshoulder">左肩</string>
+    <string name="bothhoulder">両肩</string>
+    <string name="otherill">Q9　その他歩行に対する違和感はありますでしょうか
+</string>
+    <string name="other">その他</string>
+    <string name="user_standard">利用ユーザ規約</string>
+    <string name="resister">登録</string>
+    <string name="user_agree">利用規約に同意します</string>
+
+
+    <string name="mailaddress">メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="action_sign_in">ログイン</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_shoes_id">シューズ名は8桁です</string>
+    <string name="match_lenth_shoes_id">シューズ名が間違っています</string>
+    <string name="invalid_user_id">ユーザIDは8桁です</string>
+    <string name="match_lenth_user_id">ユーザ名が間違っています</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="coverName">ショッカクシューズ</string>
+    <string name="whatCondition">本日の体調は？</string>
+    <string name="_5">5　良い</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1 悪い</string>
+    <string name="whatStress">本日のストレス度は？</string>
+    <string name="shokacshoesid">ShokacShoesID:</string>
+    <string name="warming_up">準備運動をしましょう</string>
+    <string name="up_right_leg">まずは右足を上げてください。</string>
+    <string name="up_left_leg">次は左足を上げてください</string>
+    <string name="thanks_you">お疲れさまでした！\n歩行計測開始します。</string>
+
+
+    <!-- MainActivity トースト用 -->
+    <string name="bluetooth_is_not_supported">Bluetooth is not supported.</string>
+    <string name="bluetooth_is_not_working">Bluetooth is not working.</string>
+
+    <!-- MainActivity メニュー用 -->
+    <string name="search">Search</string>
+
+    <!-- MainActivity ラベル用 -->
+    <string name="device_name">Device Name : </string>
+    <string name="device_address">Device Address : </string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="read_string">Read string : </string>
+    <string name="write_string">Send string : </string>
+    <string name="hello">r</string>
+    <string name="world">o</string>
+
+    <!-- DeviceListActivity トースト用 -->
+    <string name="unknown_device">Unknown device</string>
+
+    <!-- DeviceListActivity メニュー用 -->
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+
+
+    <string name="sensor1">センサ1</string>
+    <string name="sensor2">センサ2</string>
+    <string name="sensor3">センサ3</string>
+    <string name="asensor">加速度・角加速度センサ</string>
+    <string name="fx">Fx</string>
+    <string name="fy">Fy</string>
+    <string name="fz">Fz</string>
+    <string name="mx">Mx</string>
+    <string name="my">My</string>
+    <string name="mz">Mz</string>
+
+    <string name="app_name_1">testGUI</string>
+    <string name="space">　</string>
+    <string name="triangle">▲</string>
+    <string name="circle">●</string>
+    <string name="center">●</string>
+    <string name="rightleg">RightLeg</string>
+    <string name="leftleg">leftLeg</string>
+
+
+    <string name="shadowdx">8</string>
+    <string name="shadowdy">8</string>
+    <string name="shadowRadius">4</string>
+
+    <string name="grandpowerFx">地面反力(Fx)</string>
+    <string name="grandpowerFy">地面反力(Fy)</string>
+    <string name="grandpowerFz">地面反力(Fz)</string>
+    <string name="TeamUsString">タッチエンスは、下請け型の中小企業から新事業としてスタートしました。 自分たちの力で、今までにない製品を創り社会に貢献する、エンジニアが一人もいない環境から、 産学官連携という形で製品開発への挑戦を始めました。 モノづくりの研究開発は、結果が出るまで時間がかかり、リスクも高いため敬遠されがちですが、 社会的な意義、やりがいの高さに賛同してくれたメンバーが集まりました。 さらに共に新しい製品開発を目指して頂けるお客さま、製造パートナー、 株主にも恵まれ2011年から今まで多くの挑戦を続けることができています。 今後も固定概念にとらわれず、試行錯誤を繰り返し、世の中を変える製品創りを目指します。</string>
+    <string name="Nuton">N</string>
+    <string name="StartMeasurement">計測開始</string>
+
+
+</resources>
